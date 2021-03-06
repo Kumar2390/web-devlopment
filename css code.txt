@@ -7,11 +7,11 @@
 }
 body{
  background-color: rgb(6, 173, 56);
-
+ background:url("https://source.unsplash.com/collection/190727/1600×900") no-repeat center center/cover;
 }
 .container{
  max-width: 955px;
- border: 2px solid black;
+ /*border: 2px solid black;*/
  padding: 33px;
  margin: auto;
  height: 60vh;
@@ -23,7 +23,7 @@ body{
  width: 24%;
  padding: 10px;
  margin: 17px 12px;
- border: 2px solid black;
+ /*border: 2px solid black;*/
  border-radius: 10px;
 }
 .left{
